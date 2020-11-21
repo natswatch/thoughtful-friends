@@ -1,4 +1,3 @@
-const { ObjectId } = require('bson');
 const { Schema, model } = require('mongoose');
 
 const reactionSchema = new Schema(
@@ -21,4 +20,8 @@ const reactionSchema = new Schema(
             default: Date.now
         }
     }
-)
+);
+
+const Reaction = model('Reaction', reactionSchema);
+
+module.exports = Reaction;

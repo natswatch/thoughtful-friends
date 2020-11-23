@@ -9,5 +9,5 @@ Mongoose ODM
 
 
 ### Video
-[![walkthrough video]()](https://youtu.be/86Asd3cDcmc)
+[![walkthrough video](https://img.youtube.com/vi/86Asd3cDcmc/0.jpg)](https://youtu.be/86Asd3cDcmc)
 [Link to video](https://youtu.be/86Asd3cDcmc)    

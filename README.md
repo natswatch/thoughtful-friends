@@ -8,9 +8,6 @@ MongoDB database
 Mongoose ODM
 
 
-## Walkthrough Media
-<img src="" width="400">
-
 ### Video
-[![walkthrough video]()](https://)
-[Link to video](https://)    
+[![walkthrough video]()](https://youtu.be/86Asd3cDcmc)
+[Link to video](https://youtu.be/86Asd3cDcmc)    
